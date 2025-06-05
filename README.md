@@ -134,4 +134,4 @@ See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Author Information
 
-This role was created in 2020 by [Sendinblue GmbH](https://www.newsletter2go.com/).
+This role was created in 2020 by [Sendinblue GmbH](https://www.brevo.com/de/newsletter2go-login/).
